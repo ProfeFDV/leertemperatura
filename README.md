@@ -1,6 +1,10 @@
 
 > Abra esta pagina en [https://profefdv.github.io/leertemperatura/](https://profefdv.github.io/leertemperatura/)
 
+## Descripción 
+ Mostrar grados cuando se pulsa el boton "A".
+ Mostrar los iconos del corazón latiendo siempre.
+
 ## Usar como extensión
 
 Este repositorio puede ser añadido como una **extensión** en MakeCode.
