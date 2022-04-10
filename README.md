@@ -2,7 +2,7 @@
 > Abra esta pagina en [https://profefdv.github.io/leertemperatura/](https://profefdv.github.io/leertemperatura/)
 
 ## Descripción 
- Mostrar grados cuando se pulsa el boton "A".
+ Mostrar grados cuando se pulsa el boton "A".<br>
  Mostrar los iconos del corazón latiendo siempre.
 
 ## Usar como extensión
